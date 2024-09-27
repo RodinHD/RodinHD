@@ -4,6 +4,8 @@ By [Bowen Zhang](http://home.ustc.edu.cn/~zhangbowen)\*, [Yiji Cheng](https://ww
 
 [Paper](http://arxiv.org/abs/2407.06938) | [Project Page](https://rodinhd.github.io/) | [Code](https://github.com/RodinHD/RodinHD)
 
+https://github.com/user-attachments/assets/2961c3b8-43d5-4bdf-8852-a7545c507dfb
+
 ## Environment Setup
 We recommend using Anaconda to create a new environment and install the dependencies. Our code is tested with Python 3.8 on Linux. Our model is trained and can be inferred using NVIDIA V100 GPUs.
 ```
