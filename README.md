@@ -93,11 +93,13 @@ This repository is built upon [improved-diffusion](https://github.com/openai/imp
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@article{zhang2024rodinhd,
-  title={RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models},
+@inproceedings{zhang2025rodinhd,
+  title={Rodinhd: High-fidelity 3d avatar generation with diffusion models},
   author={Zhang, Bowen and Cheng, Yiji and Wang, Chunyu and Zhang, Ting and Yang, Jiaolong and Tang, Yansong and Zhao, Feng and Chen, Dong and Guo, Baining},
-  journal={arXiv preprint arXiv:2407.06938},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={465--483},
+  year={2025},
+  organization={Springer}
 }
 ```
 
